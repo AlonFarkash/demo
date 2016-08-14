@@ -8,7 +8,7 @@ int main() {
 	int i=5;
 	do
 	{
-		/* code */
+		/* zzzzzzzzcode */
 	} while (/* condition */);
 
 	exit(0)
