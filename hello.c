@@ -1,6 +1,11 @@
 #include <stdio.h>
 
 int main() {
-	printf("hello worl,,,d\n");	
+	
+
+
+	printf("check\n");
+	int i=5;
+
 	exit(0)
 }
